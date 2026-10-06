@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+    <head>
+        <i-header>
+            <h1 align = "center"> Global Daily news</h1>
+            <p allign ="center"> your trusted source for latest updates</p>
+            <hr>
+            <!--navigation-->
+            <p.align="center">
+                <a href="world">world</a>
+                <a href="sports">sports</a>
+                <a href="entertainment">entertainment</a>
+                <a href="podcast">podcast</a>
+                <a href="contact">contact</a>
+            </p>
+        </hr>
+s
